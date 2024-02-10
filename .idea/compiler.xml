@@ -8,13 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservize-1" />
         <module name="microservize-2" />
-        <module name="Homework_9" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Eureka" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Homework_9" options="-parameters" />
+      <module name="Eureka" options="-parameters" />
+      <module name="Homework_9" options="" />
+      <module name="eureka-server" options="-parameters" />
       <module name="microservize-1" options="-parameters" />
       <module name="microservize-2" options="-parameters" />
     </option>

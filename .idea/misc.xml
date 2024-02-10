@@ -7,7 +7,13 @@
         <option value="$PROJECT_DIR$/Homework_9/pom.xml" />
         <option value="$PROJECT_DIR$/Microservice1/pom.xml" />
         <option value="$PROJECT_DIR$/Microservice2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Homework_9/Eureka/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
